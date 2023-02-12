@@ -2,7 +2,6 @@
 #include <SPI.h>
 
 #define chipAddress 80
-//Marios WAS able to confirm my NOKIA 5110 LCD screen was broken in OHs and my replacement did not come in time which hindered my ability to fully complete that complexity.
 
 //Ultrasonic sensor
 long duration = 0;
